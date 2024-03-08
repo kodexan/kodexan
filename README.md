@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @kodexan
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning to play
+- 🌱 I’m currently learning to learn
 - 💞️ I’m looking to collaborate on KODEX
 - 📫 How to reach me arthur@kodex.one
-- 😄 Pronouns: He/He-He
 - ⚡ Fun fact: I eat
 
 <!---
